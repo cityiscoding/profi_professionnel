@@ -3,43 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng nhập</title>
     <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>Đăng ký</title>
 </head>
 <body>
     <div class="container">
-        <h1>Đăng ký</h1>
+        <h1>Đăng nhập</h1>
         <div class="container-text">
-            <p>Đã có tài khoản? <a href="login.html">Đăng nhập</a> </p>
+            <p>Người mới? <a href="signup.html">Đăng ký tài khoản</a> </p>
         </div>
         <div class="input-group">
-            <label class="label-input" for="userEmailInp">Email address</label>
+            <label class="label-input" for="userEmailInp">Email / Username</label>
             <input class="input-style" id="userEmailInp" type="text" placeholder="example@xyz.com" name="useremail" required>
             <small id="smallElement" style="color: red;"></small>
         </div>
-        <div id="datacontainer" class="datacontainer">
+        <div class="input-group">
+            <label class="label-input" for="userpasswordInp">Password</label>
+            <input class="input-style" id="userpasswordInp" type="text" name="userpassword" required>
+            <small id="smallElementpassword" style="color: red;"></small>
+        </div>
+        <div class="check-container">
             <div class="input-group">
-                <label class="label-input" for="userFnameInp">First name</label>
-                <input class="input-style" id="userFnameInp" type="text"  name="userFname" required>
-                <small id="smallElementFname" style="color: red;"></small>
-            </div>
-            <div class="input-group">
-                <label class="label-input" for="userLnameInp">Last name <small style="color:#B9BECE;">(optional)</small> </label>
-                <input class="input-style" id="userLnameInp" type="text"  name="userlname" >
-                <small id="smallElementLname" style="color: red;"></small>
-            </div>
-            <div class="input-group">
-                <label class="label-input" for="userpasswordInp">Password</label>
-                <input class="input-style" id="userpasswordInp" type="text" name="userpassword" placeholder="Password must contain at least 8 characters" required>
-                <small id="smallElementpassword" style="color: red;"></small>
-            </div>
+                <input id="userdata" style="cursor: pointer;" type="checkbox" name="useremail" value="Remember-me" checked required>
+                <label class="label-input" for="userdata">Remember me</label>
+            </div> 
+            <p><a href="#">Forgot your password?</a></p>
         </div>
         <div class="common-btn">
-            <button id="Continuebtn">Continue</button>
+            <button id="loginBtn">Login</button>
         </div>
         <div class="other-login">
-            <p>Or signup with</p>
+            <p>Or login with</p>
+
         </div>
         <div class="social-medai">
             <div class="google">
@@ -69,6 +65,6 @@
             <h4 id="show">More <i class="fas fa-chevron-down"></i></h4>
         </div>
     </div>
-    <script src="js/signuppage.js"></script>
+    <script src="js/loginpage.js"></script>
 </body>
 </html>
