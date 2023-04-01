@@ -21,3 +21,4 @@ while so_lan_doan_toi_da > 0:
 # hết số lần đoán
 if so_lan_doan_toi_da == 0:
     print("Bạn đã hết số lần đoán. Kết quả đúng là {}.".format(so_ngau_nhien))
+    

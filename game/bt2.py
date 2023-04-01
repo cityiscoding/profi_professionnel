@@ -12,7 +12,6 @@ while True:
     except ValueError:
         print("Đầu vào không hợp lệ. Vui lòng nhập lại.")
         continue
-    
     # Kiểm tra số nguyên tố
     def kiem_tra_snt(n):
         if n < 2:
