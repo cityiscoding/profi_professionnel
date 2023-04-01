@@ -118,8 +118,27 @@ section.main {
     min-height: 70vh;
     animation: fadeInUp .8s;
 }
-
+section h2 
+{
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    font-weight: 300;   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #caad08;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    animation: fadeInUp.8s;
+    animation-delay:.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
+}
 section.main img {
+    
     width: 150px;
     height: 150px;
     border-radius: 100%;
@@ -136,14 +155,15 @@ section.main span1 {
 }
 
 section.main p {
+    font-family: sans-serif;
     position: relative;
     top: 50%;
-    border-right: 2px solid rgba(255, 255, 255, .75);
+    border-right: 2px solid rgba(255, 255, 255, .25);
     white-space: nowrap;
     overflow: hidden;
-    color: #94a1b2;
+    color: #ffffff;
     font-size: 13px;
-    animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 530ms steps(44) infinite normal;
+    animation: typewriter 1.2s steps(444) 1s 1 normal both, blinkTextCursor 0ms steps(44) infinite normal;
 }
 
 section.main ul {
@@ -156,6 +176,7 @@ section.main ul {
 
 section.main ul li a {
     color: #a6a8b8;
+    
     display: flex;
     text-decoration: none;
     margin: 20px 5px;
@@ -167,6 +188,7 @@ section.main ul li a {
 section.main ul li a:hover {
     transition: 0.2s all;
     color: #fff;
+    
 }
 
 @keyframes typewriter {
@@ -174,7 +196,7 @@ section.main ul li a:hover {
         width: 0;
     }
     to {
-        width: 20.5em;
+        width: 12.5em;
     }
 }
 
