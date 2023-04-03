@@ -1,0 +1,299 @@
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmGiaoCa.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Hi\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmGiaoCa.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\COMPUTER\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\HP\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\camas\Desktop\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\Downloads\phan-mem-quan-ly-khach-san-master\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\Microsoft studio code Project\BACKUP\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\Microsoft studio code Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\Admin\Downloads\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\DangKy.resx
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\DangKy.cs
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\bin\Debug\DangKy.Designer.cs
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangKy.resources
+C:\Project\qlksLast\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmForgot.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.resx
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.cs
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\DangKy.Designer.cs
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLoaiPhong.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatDichVu.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatVatTu.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangKy.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmForgot.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmThongKe.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuPhong.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Project_Work\Visual studio\Software_winform\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
